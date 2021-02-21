@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "SDLC"
+date:   2021-02-22 17:31:28 +0200
+---
+
+From Lean/extreme programming
+
+1. pair programming
+2. deliver fast:
+Step 1: Build a simple, straight-forward solution.
+Step 2: Offer it to your customers.
+Step 3: Use customer insights to make any change and improvement gradually.
+3. less blockers (one PR approval in the begging)
+
+
+
